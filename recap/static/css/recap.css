@@ -79,6 +79,10 @@ table.recap-tab th {
   padding: 8px;
 }
 
+.active-table-custom-format-cell {
+  line-height: 50px;
+}
+
 table.recap-tab tr:nth-child(even) {
   background-color: #dddddd;
 }
